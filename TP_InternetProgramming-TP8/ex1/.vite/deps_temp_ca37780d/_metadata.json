@@ -1,0 +1,32 @@
+{
+  "hash": "eed396d0",
+  "browserHash": "71c3f0ee",
+  "optimized": {
+    "bootstrap": {
+      "src": "../../node_modules/bootstrap/dist/js/bootstrap.esm.js",
+      "file": "bootstrap.js",
+      "fileHash": "e46a1570",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "a441263e",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "175f60c2",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-R225DL6P": {
+      "file": "chunk-R225DL6P.js"
+    },
+    "chunk-JC4IRQUL": {
+      "file": "chunk-JC4IRQUL.js"
+    }
+  }
+}
